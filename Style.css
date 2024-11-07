@@ -1,0 +1,50 @@
+.header {
+    background-color: rgb(117, 5, 117);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.content {
+    margin: 15px;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.footer {
+    background-color: rgb(117, 5, 117);
+    color: white;
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer > p:hover {
+    font-size: large;
+}
+
+
+
+
+.Div1 > p > i{
+    border: 2px solid black;
+    background-color: greenyellow;
+}
+
+.Div1 > p > i:hover{
+    background-color: red;
+    border: 2px solid red;
+    color:red
+}
+
+.div2 > h2 {
+    text-decoration: underline red ;
+}
+
+.div2 > ul {
+    list-style:upper-roman;
+}
+
